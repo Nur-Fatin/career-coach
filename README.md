@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f47cd10a-bfba-433c-aefd-cd0434477764)# AI-Powered Career Coach
+# AI-Powered Career Coach
 
 🎯 Goal:  
 
